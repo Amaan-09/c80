@@ -1,0 +1,27 @@
+#submit_bt {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_bt {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#dis_name_with_comma {
+    border: 1px solid green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#dis_name_without_comma {
+    border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
